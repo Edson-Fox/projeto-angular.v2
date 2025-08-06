@@ -36,6 +36,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "site-projeto-angular",
               "budgets": [
                 {
                   "type": "initial",
